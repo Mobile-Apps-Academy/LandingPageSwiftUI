@@ -84,7 +84,7 @@ A landing page developed using SwiftUI with custom text animation.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Mobile-Apps-Academy/OpenFasionEcommerceSwiftUIApp.git
+   git clone https://github.com/Mobile-Apps-Academy/LandingPageSwiftUI.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
